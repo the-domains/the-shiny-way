@@ -2,6 +2,7 @@ name: The Shiny Way
 favicon: null
 layout_spectrum: 0.7086903913877904
 typography_spectrum: 0.7450960997957736
+title: The Shiny Way
 cta:
   domain: null
   bucket: null

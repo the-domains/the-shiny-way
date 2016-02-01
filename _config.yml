@@ -1,0 +1,28 @@
+name: The Shiny Way
+favicon: null
+layout_spectrum: 0.7086903913877904
+typography_spectrum: 0.7450960997957736
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.16630730987526476
+  lightness: 0.10892603173851967
+  saturation: 0.29103987175039947
+  rhythmicContrast: 0.037709981203079224
+purpose: []
